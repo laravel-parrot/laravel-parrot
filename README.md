@@ -3,4 +3,4 @@
 # `laravel-parrot` `<<core>>`
 A parrot project for laravel (vue) dev . laravel-parrot :heart: @0devco
 
-# `comming soon`
+# `coming soon`
