@@ -16,8 +16,6 @@
           "role": "code-Artist"
       }
   ],
-  "require": {},
-  "require-dev": {},
-  "minimum-stability": "dev",
+  "minimum-stability": "dev-master",
   "prefer-stable": true
 }
