@@ -1,0 +1,21 @@
+{
+  "name": "parrot/parrot",
+  "description": "A parrot project for laravel(vue) dev",
+  "keywords": ["laravel", "parrot", "laravel-parrot", "parrot-project", "code4mk","0devco"],
+  "license": "MIT",
+  "authors": [
+      {
+        "name": "0dev.co",
+        "email": "laravelparrot@gmail.com",
+        "role": "owner"
+      },
+      {
+          "name": "Mostafa Kamal <code4mk>",
+          "email": "hiremostafa@gmail.com",
+          "twitter": "@code4mk",
+          "role": "code-Artist"
+      }
+  ],
+  "require": {},
+  "require-dev": {}
+}
