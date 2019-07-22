@@ -5,13 +5,11 @@
         {
           "name": "0dev.co",
           "email": "parrot@0dev.co",
-          "website": "https://odev.co",
           "role": "owner"
         },
         {
             "name": "Mostafa Kamal <code4mk>",
             "email": "hiremostafa@gmail.com",
-            "twitter": "@code4mk",
             "role": "code-artist"
         }
     ],
