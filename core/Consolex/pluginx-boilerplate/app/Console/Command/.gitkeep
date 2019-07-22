@@ -1,0 +1,17 @@
+<?php
+
+namespace Parrotx\plugx\App\Console\Command;
+
+use Illuminate\Console\Command;
+use Symfony\Finder\Finder;
+
+class Demo extends Command
+{
+  protected $signature = 'plugin:name';
+  protected $description = 'this is plugin demo command';
+
+  public function handle(){
+    $this->info('This is Parrot Pluginx');
+  }
+}
+ ?>

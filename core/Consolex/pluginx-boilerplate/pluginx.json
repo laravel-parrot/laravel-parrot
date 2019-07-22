@@ -1,0 +1,10 @@
+{
+  "name": "pluginxJson",
+  "description": "pluginx description",
+  "tags":["parrot","laravel-parrot","laravel"],
+  "version": "1.0.1",
+  "license": "MIT",
+  "owner": "parrot",
+  "email": "laravelparrot@gmail.com",
+  "status": "actived"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "parrotx/plugx",
+    "description": "The Parrot Project.",
+    "autoload": {
+        "psr-4": {
+            "Parrotx\\Plugx\\": "/"
+        }
+    },
+    "keywords": [
+        "framework",
+        "laravel"
+    ],
+    "license": "MIT",
+    "require-dev": {
+      "wikimedia/composer-merge-plugin": "1.4.1"
+
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "Tests\\": "tests/"
+      }
+    }
+}
