@@ -1,34 +1,28 @@
 {
     "name": "parrot/parrot",
-    "type": "project",
-    "description": "A parrot project for laravel(vue) dev",
-    "keywords": [
-        "laravel",
-        "parrot-project",
-        "laravel-parrot",
-        "laravel-admin",
-        "vue",
-        "code4mk",
-        "0devco"
-    ],
+    "description": "parrot is laravel vue based project master",
     "authors": [
-      {
-        "name": "0devco",
-        "email": "laravelparrot@gmail.com"
-      },
-      {
-        "name": "Mostafa kamal (code4mk)",
-        "email": "hiremostafa@gmail.com"
-      }
+        {
+          "name": "0dev.co",
+          "email": "parrot@0dev.co",
+          "website": "https://odev.co",
+          "role": "owner"
+        },
+        {
+            "name": "Mostafa Kamal <code4mk>",
+            "email": "hiremostafa@gmail.com",
+            "twitter": "@code4mk",
+            "role": "code-artist"
+        }
     ],
-    "license": "MIT",
-
-    "config": {
-        "optimize-autoloader": true,
-        "preferred-install": "dist",
-        "sort-packages": true
+    "require": {
+      "ralouphie/mimey": "^2.0"
     },
+    "require-dev": {},
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
 
-    "minimum-stability": "dev",
-    "prefer-stable": true
 }
